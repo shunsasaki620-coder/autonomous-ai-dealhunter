@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env
+
+# Editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and runtime files
+*.log
+logs/
+
+# Data & outputs
+data/
+experiments/
+
+# Pyright/Type check cache
+.pyright/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Misc
+*.pot
+*.mo
